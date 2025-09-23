@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Compuertas_Logicas/1.0.0": {
+        "runtime": {
+          "Compuertas_Logicas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Compuertas_Logicas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

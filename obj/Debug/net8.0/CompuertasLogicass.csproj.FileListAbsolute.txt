@@ -1,0 +1,5 @@
+C:\Users\DELL\OneDrive\Escritorio\Repos_P2\CompuertasLogicass\obj\Debug\net8.0\CompuertasLogicass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Escritorio\Repos_P2\CompuertasLogicass\obj\Debug\net8.0\CompuertasLogicass.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Escritorio\Repos_P2\CompuertasLogicass\obj\Debug\net8.0\CompuertasLogicass.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Escritorio\Repos_P2\CompuertasLogicass\obj\Debug\net8.0\CompuertasLogicass.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Escritorio\Repos_P2\CompuertasLogicass\obj\Debug\net8.0\CompuertasLogicass.sourcelink.json
