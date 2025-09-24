@@ -12,3 +12,4 @@ C:\Users\DELL\OneDrive\Escritorio\Repos_P2\CompuertasLogicass\Compuertas_Logicas
 C:\Users\DELL\OneDrive\Escritorio\Repos_P2\CompuertasLogicass\Compuertas_Logicas\obj\Debug\net8.0\Compuertas_Logicas.pdb
 C:\Users\DELL\OneDrive\Escritorio\Repos_P2\CompuertasLogicass\Compuertas_Logicas\obj\Debug\net8.0\Compuertas_Logicas.genruntimeconfig.cache
 C:\Users\DELL\OneDrive\Escritorio\Repos_P2\CompuertasLogicass\Compuertas_Logicas\obj\Debug\net8.0\ref\Compuertas_Logicas.dll
+C:\Users\DELL\OneDrive\Escritorio\Repos_P2\CompuertasLogicass\Compuertas_Logicas\obj\Debug\net8.0\Compuertas_Logicas.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CompuertasLogicass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+158c359fd7603a3bac588accea3850adc8958148")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b65548489a3d789af3c8f4e24a8c0ad5a19624a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("CompuertasLogicass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CompuertasLogicass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
