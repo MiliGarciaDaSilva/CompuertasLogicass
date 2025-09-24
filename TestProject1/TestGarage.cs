@@ -3,28 +3,28 @@ using Compuertas_Logicas;
 
 public class TestGarage
 {
-    private GarageGate garageAbierto;
-    private GarageGate garageCerrado;
+    private GarageGate _garageAbierto;
+    private GarageGate _garageCerrado;
     
     [SetUp]
     public void Setup()
     {
-        garageAbierto = new GarageGate(false, false, true);
-        garageCerrado = new GarageGate(false, false, false);
+        _garageAbierto = new GarageGate(false, false, true);
+        _garageCerrado = new GarageGate(false, false, false);
     }
 
     [Test]
 
     public void GarageAbierto()
     {
-        Assert.IsTrue(garageAbierto.Operar());
+        Assert.IsTrue(_garageAbierto.Operar());
     }
 
     [Test]
 
     public void GarageCerrado()
     {
-        Assert.IsFalse(garageCerrado.Operar());
+        Assert.IsFalse(_garageCerrado.Operar());
     }
     
 }

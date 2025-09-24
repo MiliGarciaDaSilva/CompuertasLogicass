@@ -1,4 +1,17 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0862dd8a_002D5f22_002D4b67_002Da96b_002D6410c550ed49/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestNot" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::28C541A5-1D4F-48E5-80D4-EBF7BAB0D87E::net8.0::TestProject1.TestNot&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=270ecf25_002D186c_002D4cb8_002Dbf35_002D78815d19893f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestNot #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::28C541A5-1D4F-48E5-80D4-EBF7BAB0D87E::net8.0::TestProject1.TestNot&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::28C541A5-1D4F-48E5-80D4-EBF7BAB0D87E::net8.0::TestProject1.TestGarage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::28C541A5-1D4F-48E5-80D4-EBF7BAB0D87E::net8.0::TestProject1.TestOr&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::28C541A5-1D4F-48E5-80D4-EBF7BAB0D87E::net8.0::TestProject1.TestAnd&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f84952f0_002Df825_002D448f_002D9922_002D42edfeeaea9d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestAnd" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::28C541A5-1D4F-48E5-80D4-EBF7BAB0D87E::net8.0::TestProject1.TestAnd&lt;/TestId&gt;&#xD;

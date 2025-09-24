@@ -24,8 +24,8 @@ class Program
         
         not.AgregarEntrada(false);
         Console.WriteLine("Not de false : " + not.Operar());
-        */
-
+        
+        
         GarageGate garage = new GarageGate(true, true, true);
         garage.Operar();
         
@@ -34,5 +34,6 @@ class Program
         
         GarageGate garage3 = new GarageGate(false, false, true);
         garage3.Operar();
+        */
     }
 }

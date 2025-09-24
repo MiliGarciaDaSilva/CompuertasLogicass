@@ -3,32 +3,32 @@ using Compuertas_Logicas;
 
 public class TestOr
 {
-    private Or or;
+    private Or _or;
 
     [SetUp]
     public void Setup()
     {
-        or = new Or(false, false);
+        _or = new Or(false, false);
     }
 
     [Test]
     public void OrOperarConFalseYFalse()
     { 
-        Assert.IsFalse(or.Operar());
+        Assert.IsFalse(_or.Operar());
     }
 
     [Test]
     public void OperarConTrueYTrue()
     {
-        or.Entradas = new List<bool> { true, true };
-        Assert.IsTrue(or.Operar());
+        _or.Entradas = new List<bool> { true, true };
+        Assert.IsTrue(_or.Operar());
     }
 
     [Test]
     public void OrAgregarEntrada()
     {
-        Assert.That(or.Entradas.Count, Is.EqualTo(2));
-        or.AgregarEntrada(false);
-        Assert.That(or.Entradas.Count, Is.EqualTo(3));
+        Assert.That(_or.Entradas.Count, Is.EqualTo(2));
+        _or.AgregarEntrada(false);
+        Assert.That(_or.Entradas.Count, Is.EqualTo(3));
     }
 }

@@ -3,24 +3,24 @@ using Compuertas_Logicas;
 
 public class TestNot
 {
-    private Not not;
+    private Not _not;
 
     [SetUp]
     public void Setup()
     {
-        not = new Not(true);
+        _not = new Not(true);
     }
 
     [Test]
     public void NotOperarTrue()
     {
-        Assert.IsFalse(not.Operar());
+        Assert.IsFalse(_not.Operar());
     }
 
     [Test]
     public void NotOperarFalse()
     {
-        not.AgregarEntrada(false);
-        Assert.IsTrue(not.Operar());
+        _not.AgregarEntrada(false);
+        Assert.IsTrue(_not.Operar());
     }
 }

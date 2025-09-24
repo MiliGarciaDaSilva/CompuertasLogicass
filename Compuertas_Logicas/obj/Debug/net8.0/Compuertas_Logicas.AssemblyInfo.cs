@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Compuertas_Logicas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b65548489a3d789af3c8f4e24a8c0ad5a19624a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fac068bce5a11e843e5e7512cf6127645ca9be4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Compuertas_Logicas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Compuertas_Logicas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
